@@ -10,3 +10,6 @@
 [submodule "active-expressions-js-compilation"]
 	path = active-expressions-js-compilation
 	url = https://github.com/active-expressions/aexpr-source-transformation-propagation.git
+[submodule "active-expressions-js-compilation-plugin"]
+	path = active-expressions-js-compilation-plugin
+	url = https://github.com/active-expressions/babel-plugin-aexpr-source-transformation.git
