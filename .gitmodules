@@ -16,3 +16,6 @@
 [submodule "active-expressions-py"]
 	path = active-expressions-py
 	url = https://github.com/active-expressions/active-expressions-static-python.git
+[submodule "active-expressions-s"]
+	path = active-expressions-s
+	url = https://github.com/active-expressions/active-expressions-squeak.git
