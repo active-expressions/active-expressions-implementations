@@ -1,0 +1,3 @@
+[submodule "active-expressions-js"]
+	path = active-expressions-js
+	url = https://github.com/active-expressions/active-expressions.git
