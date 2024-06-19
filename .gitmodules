@@ -13,3 +13,6 @@
 [submodule "active-expressions-js-compilation-plugin"]
 	path = active-expressions-js-compilation-plugin
 	url = https://github.com/active-expressions/babel-plugin-aexpr-source-transformation.git
+[submodule "active-expressions-py"]
+	path = active-expressions-py
+	url = https://github.com/active-expressions/active-expressions-static-python.git
