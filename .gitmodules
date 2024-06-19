@@ -1,3 +1,6 @@
 [submodule "active-expressions-js"]
 	path = active-expressions-js
 	url = https://github.com/active-expressions/active-expressions.git
+[submodule "active-expressions-js-convention"]
+	path = active-expressions-js-convention
+	url = https://github.com/active-expressions/aexpr-ticking.git
