@@ -7,3 +7,6 @@
 [submodule "active-expressions-js-interpretation"]
 	path = active-expressions-js-interpretation
 	url = https://github.com/active-expressions/aexpr-interpretation.git
+[submodule "active-expressions-js-compilation"]
+	path = active-expressions-js-compilation
+	url = https://github.com/active-expressions/aexpr-source-transformation-propagation.git
